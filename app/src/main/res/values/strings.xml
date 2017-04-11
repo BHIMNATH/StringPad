@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">String Pad</string>
+    <string name="read">Speak</string>
+    <string name="save">Save</string>
+</resources>
